@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,laravel" />
+  </a>
+  <br/
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,mysql" />
+  </a>
+</p>
 <!--
 **Scorni/Scorni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
