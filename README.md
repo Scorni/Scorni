@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
   <h2>🧱 Frameworks</h2>
@@ -25,6 +27,9 @@
     <img src="https://skillicons.dev/icons?i=windows,apple" />
   </a>
 </div>
-
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="center">
+<img src="https://github.com/Scorni/Scorni/blob/main/metrics.plugin.achievements.compact.svg" alt=""></img>
+  
+  <img src="https://github.com/Scorni/Scorni/blob/main/metrics.isocalendar.svg" alt="Isocalendar" />
+</p>
 
