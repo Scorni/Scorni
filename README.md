@@ -28,8 +28,12 @@
   </a>
 </div>
 <p align="center">
-<img src="https://github.com/Scorni/Scorni/blob/main/metrics.plugin.achievements.compact.svg" alt=""></img>
+<img src="https://github.com/Scorni/Scorni/blob/main/metrics.plugin.languages.details.svg" alt=""></img>
+  
+</p>
+<p align="center">
   
   <img src="https://github.com/Scorni/Scorni/blob/main/metrics.isocalendar.svg" alt="Isocalendar" />
+  
 </p>
 
