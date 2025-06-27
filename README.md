@@ -1,39 +1,15 @@
-
-
 <div align="center">
+<h2>👋 Hello, moi c'est Maxence, Développeur FullStack !</h2>
 
-  <h2>🧱 Frameworks</h2>
+| 🧱 Frameworks  | 🔧 Tools | ⚡ IDE | 💻 OS|
+|--------------|----------|----------|----------|
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,laravel" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,mysql,figma" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=phpstorm,webstorm" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,apple" /></a> |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,laravel" />
-  </a>
-</p>
-  <h2>🔧 Tools</h2>
+| 📊 Contributions |
+|-------------|
+| <p align="center"> <img src="https://github.com/Scorni/Scorni/blob/main/metrics.isocalendar.svg" alt="Isocalendar" /></p> |
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,mysql" />
-  </a>
-  <br/>
-
-  <h2>⚡ IDE</h2>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=phpstorm,webstorm" />
-  </a>
-  <br/>
-  <h2>💻 OS</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple" />
-  </a>
-</div>
-<p align="center">
-<img src="https://github.com/Scorni/Scorni/blob/main/metrics.plugin.languages.details.svg" alt=""></img>
-  
-</p>
-<p align="center">
-  
-  <img src="https://github.com/Scorni/Scorni/blob/main/metrics.isocalendar.svg" alt="Isocalendar" />
-  
-</p>
+| ✍️ Langages |
+|-------------|
+| <p align="center"><img src="https://github.com/Scorni/Scorni/blob/main/metrics.plugin.languages.details.svg" alt="Langages utilisés" /></p> |
 
