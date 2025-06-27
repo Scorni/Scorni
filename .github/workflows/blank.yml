@@ -1,7 +1,7 @@
 name: Generate GitHub Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * *"}]  # tous les jours à minuit
   workflow_dispatch:
 
 permissions:
@@ -16,14 +16,16 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.base.svg
+          filename: metrics.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
       - name: Commit and push metrics
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add metrics.base.svg
-          git commit -m "chore: update metrics"
+          git add metrics.isocalendar.svg || echo "No file to add"
+          git commit -m "chore: update isocalendar metrics" || echo "Nothing to commit"
           git push
