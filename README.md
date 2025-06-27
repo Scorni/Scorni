@@ -1,5 +1,4 @@
 <div align="center">
-<h2>👋 Hello, moi c'est Maxence, Développeur FullStack !</h2>
 
 | 🧱 Frameworks  | 🔧 Tools | ⚡ IDE | 💻 OS|
 |--------------|----------|----------|----------|
